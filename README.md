@@ -23,7 +23,7 @@ Follow these steps to install the project:
 2. Navigate to the project directory:
 
    ```
-   cd qawan-task
+   cd Qewam-task
    ```
 
 3. Create an environment configuration file by copying the example file:
